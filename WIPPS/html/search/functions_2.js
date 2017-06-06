@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['calc_5fnorm_5fb',['calc_norm_B',['../classspectrum.html#ab89056c15b1b5f3fafd379430936f1dc',1,'spectrum']]],
+  ['calc_5fnorm_5fg',['calc_norm_g',['../classspectrum.html#a4cf69a012a25240a586f7b82aa3c3242',1,'spectrum']]],
+  ['calculate',['calculate',['../classdiffusion__coeff.html#a1f87a7202689bd2947d079c1d6d6c539',1,'diffusion_coeff']]],
+  ['calculate_5fcoeffs_5ffull',['calculate_coeffs_full',['../classresonance__poly.html#af61fcdb9a50c93f97d3ee86aa20b9dd6',1,'resonance_poly']]],
+  ['calculate_5fcoeffs_5fno_5fion',['calculate_coeffs_no_ion',['../classresonance__poly.html#ac2e7bb7751fe2457075ea489cbd259fa',1,'resonance_poly']]],
+  ['change_5fblock_5fid',['change_block_id',['../classreader.html#a0a4c4be70e266763e4f63f63f7f209a7',1,'reader']]],
+  ['check_5fids',['check_ids',['../classdata__array.html#a1228f2829a6c6bf7226a0c61ccbaa45d',1,'data_array::check_ids()'],['../classspectrum.html#ae0006ab24fa697f9c2fda2065d52ca72',1,'spectrum::check_ids()']]],
+  ['check_5ftags',['check_tags',['../classspectrum.html#ad246d99441655930ad87ac8d99c07f65',1,'spectrum']]],
+  ['check_5fupper',['check_upper',['../classspectrum.html#ae664dc1aee32114d2efb56b7df5cd7e2',1,'spectrum']]],
+  ['check_5fwipps_5fversion',['check_wipps_version',['../group__help.html#gace97ec090e246b44643628971a5b96e9',1,'check_wipps_version(std::string filename):&#160;support.cpp'],['../group__help.html#gace97ec090e246b44643628971a5b96e9',1,'check_wipps_version(std::string filename):&#160;support.cpp']]],
+  ['checked_5fstrtof',['checked_strtof',['../group__help.html#ga69d1379c82fca06955ff025911cef497',1,'checked_strtof(const char *str, bool quiet):&#160;support.cpp'],['../group__help.html#ga69d1379c82fca06955ff025911cef497',1,'checked_strtof(const char *str, bool quiet=false):&#160;support.cpp']]],
+  ['checked_5fstrtol',['checked_strtol',['../group__help.html#gada81a9aac6236c3415f8f2d502a5fe48',1,'checked_strtol(const char *str, bool quiet):&#160;support.cpp'],['../group__help.html#gada81a9aac6236c3415f8f2d502a5fe48',1,'checked_strtol(const char *str, bool quiet=false):&#160;support.cpp']]],
+  ['clear_5fall',['clear_all',['../classcontroller.html#a4afa66231e0958aeb27d75657424235f',1,'controller']]],
+  ['clone_5fempty',['clone_empty',['../classdata__array.html#a352a80b4ddd8177327da9d39103994bd',1,'data_array::clone_empty()'],['../classmy__array.html#a2c23ba96ebbfe32b26442ac9928a966a',1,'my_array::clone_empty()']]],
+  ['compare_5fas_5fversion_5fstring',['compare_as_version_string',['../group__help.html#gacaac7c4e92f95fc8bd55e42a10f4c3b7',1,'compare_as_version_string(std::string str, std::string vers_str, bool minor):&#160;support.cpp'],['../group__help.html#gacaac7c4e92f95fc8bd55e42a10f4c3b7',1,'compare_as_version_string(std::string str, std::string vers_str=VERSION, bool minor=false):&#160;support.cpp']]],
+  ['construct',['construct',['../classdata__array.html#a8e325412ed2e2e644fcdebbf73f76a58',1,'data_array::construct()'],['../classmy__array.html#a7475e42e523ef980666314f9795675c3',1,'my_array::construct()']]],
+  ['controller',['controller',['../classcontroller.html#ab8611300821c5deded2b3152debb917e',1,'controller']]],
+  ['copy_5fdata',['copy_data',['../classmy__array.html#aa0042ab1ccf1a9c68a4aefdb92a50aa8',1,'my_array']]],
+  ['copy_5fids',['copy_ids',['../classdata__array.html#a257e0c8832769840c90b6e35d33a4679',1,'data_array::copy_ids()'],['../classspectrum.html#a873805463095435b1164925edc92759d',1,'spectrum::copy_ids()']]],
+  ['copy_5fout_5fb',['copy_out_B',['../classspectrum.html#aef1e39844c3f17b143976baee6d81f7f',1,'spectrum']]],
+  ['copy_5fout_5fg',['copy_out_g',['../classspectrum.html#af69dbb49c5cf6e5700c4676b0ebdd1f9',1,'spectrum']]],
+  ['copy_5ftags',['copy_tags',['../classspectrum.html#a638dbb6698a4fbcd6ce502ca491cbcd3',1,'spectrum']]],
+  ['cubic_5fsolve',['cubic_solve',['../group__help.html#ga81e895fb09ee2f368f71d64431e44b32',1,'cubic_solve(calc_type an, calc_type bn, calc_type cn):&#160;support.cpp'],['../group__help.html#ga81e895fb09ee2f368f71d64431e44b32',1,'cubic_solve(calc_type an, calc_type bn, calc_type cn):&#160;support.cpp']]],
+  ['current_5fblock_5fis_5faccum',['current_block_is_accum',['../classreader.html#acf280eabc3613aa967b9f55728fc9038',1,'reader']]],
+  ['cutout_5fprocess_5fcommand_5fline',['cutout_process_command_line',['../group__cutout__util.html#ga7dac8dad8b6b018aacc95154dd38b4d0',1,'cutout_fft.cpp']]]
+];

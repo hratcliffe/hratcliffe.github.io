@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['per_5fproc',['per_proc',['../structsetup__args.html#ab9bef77aaf18e22ae4ad7c550d287735',1,'setup_args']]],
+  ['per_5futil_5fhelp_5fid',['PER_UTIL_HELP_ID',['../group__diff__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;calculate_diffusion.cpp'],['../group__growth__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;calculate_growth.cpp'],['../group__dist__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;compress_distributions.cpp'],['../group__cutout__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;cutout_fft.cpp'],['../group__example__mains.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;example_multicore.cpp'],['../group__example__mains.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;example_singlecore.cpp'],['../group__extr__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;extract_field.cpp'],['../group__spect__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;fft_to_spectrum.cpp'],['../group__fft__util.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;generate_ffts.cpp'],['../group__main__prog.html#gaa9dd05e8d257fdaad52f913fa2204d1b',1,'PER_UTIL_HELP_ID():&#160;main.cpp']]],
+  ['phi',['phi',['../structmu__dmudom.html#a5e4f36e02fb9fc4a6e5ead4ee6fc1d2d',1,'mu_dmudom']]],
+  ['pi',['pi',['../group__const.html#ga1d104cdff98408eb963e72bdd76454c3',1,'support.h']]],
+  ['ppc',['ppc',['../structdeck__constants.html#a17edc9508fce09d8d00e66d0c2210dc4',1,'deck_constants::ppc()'],['../group__const.html#gae2196d8ed1e985898030a35d6a9cb203',1,'PPC():&#160;support.h']]]
+];

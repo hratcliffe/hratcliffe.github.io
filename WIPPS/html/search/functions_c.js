@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['operator_21_3d',['operator!=',['../classdata__array.html#a27c81ce63ba90989c1e1e6b8a8b63463',1,'data_array::operator!=(const data_array &amp;rhs) const '],['../classdata__array.html#a8c3c78da020f1321ed7db1841accfc4e',1,'data_array::operator!=(const my_array &amp;rhs) const '],['../classmy__array.html#a5e28f8420e86f91196473588207157e1',1,'my_array::operator!=()'],['../classspectrum.html#ab379ad6a9e26f7d1163bf5960e01e9f4',1,'spectrum::operator!=()']]],
+  ['operator_3d',['operator=',['../classdata__array.html#ac511cb51e297749a4c31db57db20e387',1,'data_array::operator=(const data_array &amp;src)'],['../classdata__array.html#ae5d930e43ac19177fc927f630b78a554',1,'data_array::operator=(const my_array &amp;src)'],['../classmy__array.html#aa9477d7c47d165c332673b459ee373ad',1,'my_array::operator=()'],['../classspectrum.html#a1f5163d7d5d5a50074494c9076996dac',1,'spectrum::operator=()']]],
+  ['operator_3d_3d',['operator==',['../classdata__array.html#a2d8ec3f5827952f8500408891694a6d2',1,'data_array::operator==(const data_array &amp;rhs) const '],['../classdata__array.html#aa44fbbf7701526204593afa6faabab9d',1,'data_array::operator==(const my_array &amp;rhs) const '],['../classmy__array.html#a08477d65eefd4677cbfa73c21e347def',1,'my_array::operator==()'],['../classspectrum.html#a0784af832d813348e4152061652b5975',1,'spectrum::operator==()']]]
+];
